@@ -1,0 +1,14 @@
+**/*.zip
+.idea/
+__pycache__/
+
+**/trained/**/*
+**/pretrained/**/*
+**/videos/**/*
+**/images/**/*
+**/inputs/**/*
+**/outputs/**/*
+**/sort_deep/MOT16
+**/sort_deep/resources
+
+!**/*.py
